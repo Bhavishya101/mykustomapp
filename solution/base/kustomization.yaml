@@ -20,3 +20,4 @@ configMapGenerator:
   env: config.properties
 
 # Demo for branch1
+# Demo for branch2
